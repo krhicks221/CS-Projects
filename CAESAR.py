@@ -1,3 +1,5 @@
+#For Jack, we'll call this siezure cypher for one week... He is awful...
+
 #notes from CS Class
 #written by Mr. Roaden
 #no credit to me
