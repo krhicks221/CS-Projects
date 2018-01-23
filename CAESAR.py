@@ -1,3 +1,8 @@
+#notes from CS Class
+#written by Mr. Roaden
+#no credit to me
+#I am a noob
+
 def shift(num, shifted):
 	lower = 'abcdefghijklmnopqrstuvwxyz'
 	upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
