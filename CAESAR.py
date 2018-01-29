@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 #Function shifts forward by 13
+=======
+#For Jack, we'll call this siezure cypher for one week... He is awful...
+
+#notes from CS Class
+#written by Mr. Roaden
+#no credit to me
+#I am a noob
+
+>>>>>>> ca0fecf17801d838e9b89742b2cf69c96e9d348e
 def shift(num, shifted):
 	#Alphabet to be used
 	lower = 'abcdefghijklmnopqrstuvwxyz'
