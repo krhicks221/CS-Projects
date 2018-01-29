@@ -1,0 +1,3 @@
+from classroom import *
+
+Lynzie()
