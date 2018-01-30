@@ -1,16 +1,11 @@
 print("Abe can be shy sometimes...")
 print("Maybe you could help him figure out what to say?")
-print("What should he say?")
-text = input()
+text = input("What should he say? ")
 
-textbox = open('textbox.txt')
+def boxtext(text):
+	print('<', text, '>')
+
 abesay = open('ART.txt')
-for line in textbox:
-	print(line)
+boxtext(text)
 for line in abesay:
-	print(line)
-
-
-
-
-
+	print(line, end='')
