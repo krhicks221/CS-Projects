@@ -1,8 +1,16 @@
-abesay = 'ART.txt'
+print("Abe can be shy sometimes...")
+print("Maybe you could help him figure out what to say?")
+print("What should he say?")
+text = input()
 
-abesay = open('ART.txt','r') #Opens the file for reading
+textbox = open('textbox.txt')
+abesay = open('ART.txt')
+for line in textbox:
+	print(line)
+for line in abesay:
+	print(line)
 
-for i in range(17):
-	print(abesay.readline())
+
+
 
 
